@@ -1,5 +1,5 @@
 # thomashumphrey686.github.io
 
-# Pages  
+## Pages  
 
 [Holmes CTF 2025 Writeup](./Holmes_CTF_2025_Writeup.md)
