@@ -1,0 +1,13 @@
+html, body {
+    background-color: #212121;
+    color: #FAFAFA
+}
+header{
+    width: 50%;
+}
+button {
+    background-color: #313131;
+    color: #FBFBFB;
+    padding: .5%;
+    text-shadow: 10px 10px 20px #181818;
+}
